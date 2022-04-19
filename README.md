@@ -1,6 +1,6 @@
 # Всем привет, я Даниил 🍕  
 
-<div style="text-align:center">![Profile views](https://gpvc.arturio.dev/DanyKuzmenko)</div>
+<div style="text-align:center">`![Profile views](https://gpvc.arturio.dev/DanyKuzmenko)`</div>
 
 
 * Хочу стать крутым frontend разработчиком
