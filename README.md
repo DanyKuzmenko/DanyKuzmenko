@@ -10,4 +10,4 @@
 
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?DanyKuzmenko={DanyKuzmenko})
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyKuzmenko&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
