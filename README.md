@@ -17,5 +17,5 @@
 ## Статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyKuzmenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyKuzmenko&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?DanyKuzmenko=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DanyKuzmenko&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
