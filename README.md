@@ -1,14 +1,14 @@
 # Всем привет, я Даниил 🍕  
 
-<div style="text-align:center">`![Profile views](https://gpvc.arturio.dev/DanyKuzmenko)`</div>
+![Profile views](https://gpvc.arturio.dev/DanyKuzmenko)
 
 
 * Хочу стать крутым frontend разработчиком
 
 ## Стек технологий:  
 
-
-
+## Немного статистики
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyKuzmenko)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyKuzmenko&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Где меня можно найти:
