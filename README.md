@@ -4,12 +4,14 @@
 [![codewars](https://www.codewars.com/users/Daniil%20Kuzmenko/badges/micro)](https://www.codewars.com/users/Daniil%20Kuzmenko)
 
 ### **Где меня можно найти:**
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dankuzmenko02@yandex.ru) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-kuzmenko-30a33822b/)
+LinkedIn: https://www.linkedin.com/in/dankuzmenko/
+tg: @dankuzmenko
+email: dankuzmenko02@yandex.ru (рабочий), sh0k555@yandex.ru
 
 ## **Немного обо мне:**
 * Хочу стать крутым frontend разработчиком👨‍💻
 * Живу в Краснодаре☀️
+* Ищу работу, готов рассмотреть стажировки или НКО проекты🙂
 
 ## **Стек технологий:**
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
