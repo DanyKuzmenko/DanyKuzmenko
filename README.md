@@ -6,7 +6,7 @@
 ### **Где меня можно найти:**
 LinkedIn: https://www.linkedin.com/in/dankuzmenko/  
 tg: @dankuzmenko  
-email: dankuzmenko02@yandex.ru (рабочий), sh0k555@yandex.ru  
+email: dankuzmenko02@yandex.ru 
 
 ## **Немного обо мне:**
 * Хочу стать крутым frontend разработчиком👨‍💻
