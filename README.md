@@ -4,12 +4,12 @@
 
 ### **Где меня можно найти:**
 tg: @dankuzmenko  
-email: dankuzmenko02@yandex.ru 
+email: dankuzmenko02@yandex.ru  
 LinkedIn: https://www.linkedin.com/in/dankuzmenko/  
 
 ## **Немного обо мне:**
 * Живу в Краснодаре☀️
-* Слушаю очень много музыки
+* Слушаю очень много музыки 
 * Люблю путешестовать
 
 ## **Стек технологий:**
